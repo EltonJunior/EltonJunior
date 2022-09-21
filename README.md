@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Elton Junior</h1>
 
- [![HitCount](https://views.whatilearened.today/views/github/EltonJunior/creative-profile-readme.svg)](https://github.com/EltonJunior/)
+ <div align="center">
+  <a href="https://github.com/EltonJunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonJunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 &nbsp;
 > On Full-Time, I'm a Software Test Engineer and on free-time, I'm a Master student of Electronic System and an Embedded development. I love to search for new technology, especially when it's possible to apply it from hardware development to software implementation.
 
